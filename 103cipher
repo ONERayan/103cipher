@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+import cipher as cipher
+
+if __name__ == "__main__":
+    cipher.main()
